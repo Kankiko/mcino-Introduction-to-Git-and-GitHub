@@ -1,14 +1,14 @@
-# Introduction to Git and GitHub
+# Introduction to Git thend GitHub
 
-## Simple Interest Calculator
+## Simple Interest Cthelculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A cthelculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
 Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
+   p, principthel amount
+   t, time period in yethers
+   r, thennual rate of interest
 Output
    simple interest = p*t*r
 ```
